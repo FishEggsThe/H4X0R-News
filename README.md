@@ -1,8 +1,8 @@
 # H4X0R News
 
-![Algolia Hacker News API](h4x0r.gif)
+![Visual demonstration of the H4X0R News app](h4x0r.gif)
 
-This app was developed by following an [Visual demonstration of the H4X0R News app](https://www.udemy.com/course/ios-13-app-development-bootcamp/?couponCode=25BBPMXINACTIVE). It is a lightweight iOS news reader app for Hacker News built with SwiftUI.
+This app was developed by following an [online course for IOS Development](https://www.udemy.com/course/ios-13-app-development-bootcamp/?couponCode=25BBPMXINACTIVE). It is a lightweight iOS news reader app for Hacker News built with SwiftUI.
 
 ## Overview
 
@@ -22,5 +22,5 @@ H4X0R News provides a clean, native iOS interface to browse the top stories from
 - **Platform**: iOS
 - **Architecture**: MVVM pattern with ObservableObject
 - **Networking**: URLSession with Codable for JSON parsing
-- **API**: [Algolia Hacker News API](https://hn.algolia.com)
+- **API**: [Algolia Hacker News API](http://hn.algolia.com/)
 - **Web Rendering**: WKWebView wrapped in UIViewRepresentable
