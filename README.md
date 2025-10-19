@@ -1,6 +1,8 @@
 # H4X0R News
 
-This app was developed by following an [online course for IOS Development](https://www.udemy.com/course/ios-13-app-development-bootcamp/?couponCode=25BBPMXINACTIVE). It is a lightweight iOS news reader app for Hacker News built with SwiftUI.
+![Algolia Hacker News API](h4x0r.gif)
+
+This app was developed by following an [Visual demonstration of the H4X0R News app](https://www.udemy.com/course/ios-13-app-development-bootcamp/?couponCode=25BBPMXINACTIVE). It is a lightweight iOS news reader app for Hacker News built with SwiftUI.
 
 ## Overview
 
