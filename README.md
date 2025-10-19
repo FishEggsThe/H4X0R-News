@@ -22,5 +22,5 @@ H4X0R News provides a clean, native iOS interface to browse the top stories from
 - **Platform**: iOS
 - **Architecture**: MVVM pattern with ObservableObject
 - **Networking**: URLSession with Codable for JSON parsing
-- **API**: [Algolia Hacker News API](http://hn.algolia.com/api/v1/search?tags=front_page)
+- **API**: [Algolia Hacker News API](https://hn.algolia.com)
 - **Web Rendering**: WKWebView wrapped in UIViewRepresentable
